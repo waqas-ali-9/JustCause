@@ -11,6 +11,7 @@ console.log("hahaha")
 console.log("hahaha")
 console.log("hahaha")
 console.log("hahaha")
+console.log("check stash")
 module.exports=mysql.createConnection({
     host:"localhost",
     port:"3306",
