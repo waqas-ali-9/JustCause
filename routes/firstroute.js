@@ -12,4 +12,7 @@ myname("Waqas")
 myname("main")
 
 
+myname("Waqas")
+
+
 module.exports = router;
