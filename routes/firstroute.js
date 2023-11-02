@@ -13,5 +13,7 @@ myname("main")
 
 
 myname("lalalalalalalalalalala")
+myname("Waqas")
+
 
 module.exports = router;
