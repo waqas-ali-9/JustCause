@@ -9,5 +9,7 @@ function myname(name){
 }
 myname("Waqas")
 
+myname("main")
+
 
 module.exports = router;
