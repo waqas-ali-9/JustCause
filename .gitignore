@@ -6,6 +6,8 @@
 /out-tsc
 /bazel-out
 
+database.js
+
 # Node
 /node_modules
 .env
